@@ -19,5 +19,5 @@ function toggleMenu() {
     myMenu.style.display = "block";
   }
 }
-console.log("1");
+console.log("toggle");
 // onclick = "toggleMenu()";

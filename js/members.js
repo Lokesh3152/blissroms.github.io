@@ -62,4 +62,3 @@ async function members() {
   document.getElementById("container").innerHTML = container;
 }
 members();
-console.log("hi");

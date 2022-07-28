@@ -10,14 +10,10 @@ function toggleMenu() {
 
   // now toggle the clock and the button text, depending on current state
   if (displaySetting == "block") {
-    console.log("2");
     // clock is visible. hide it
     myMenu.style.display = "none";
   } else {
-    console.log("3");
     // clock is hidden. show it
     myMenu.style.display = "block";
   }
 }
-console.log("toggle");
-// onclick = "toggleMenu()";
